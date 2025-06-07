@@ -29,7 +29,7 @@ This project displays basic personal details, a profile picture, and social medi
 
 ## 🌐 Live Demo
 
-[View it here](https://github.com/Priyansh-c/Profile-website) <!-- Replace with your GitHub Pages URL -->
+[View it here](https://priyansh-c.github.io/Profile-website/) <!-- Replace with your GitHub Pages URL -->
 ## 🧑‍💻 Author
 
 **Priyansh B**  
