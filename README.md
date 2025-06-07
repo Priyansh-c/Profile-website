@@ -5,7 +5,7 @@ This project displays basic personal details, a profile picture, and social medi
 
 ## 📸 Preview
 
-![Preview of Profile Card](screenshot.png) <!-- (Optional: Upload screenshot image and name it 'screenshot.png') -->
+![Preview of Profile Card](card.png) <!-- (Optional: Upload screenshot image and name it 'screenshot.png') -->
 
 ## 🚀 Features
 
